@@ -185,7 +185,7 @@ class _MentorPageState extends State<MentorPage> {
                         height: 5,
                       ),
                       const Text(
-                        "Extra Founder",
+                        "Founder",
                         style: TextStyle(
                             color: Colors.black,
                             fontWeight: FontWeight.bold,
@@ -259,7 +259,7 @@ class _MentorPageState extends State<MentorPage> {
                         height: 5,
                       ),
                       const Text(
-                        "Extra Founder",
+                        " Founder",
                         style: TextStyle(
                             color: Colors.black,
                             fontWeight: FontWeight.bold,
@@ -333,7 +333,7 @@ class _MentorPageState extends State<MentorPage> {
                         height: 5,
                       ),
                       const Text(
-                        "Extra founder",
+                        " founder",
                         style: TextStyle(
                             color: Colors.black,
                             fontWeight: FontWeight.bold,
@@ -407,7 +407,7 @@ class _MentorPageState extends State<MentorPage> {
                         height: 5,
                       ),
                       const Text(
-                        "Extra founder",
+                        " founder",
                         style: TextStyle(
                             color: Colors.black,
                             fontWeight: FontWeight.bold,
@@ -481,7 +481,7 @@ class _MentorPageState extends State<MentorPage> {
                         height: 5,
                       ),
                       const Text(
-                        "Extra founder",
+                        " founder",
                         style: TextStyle(
                             color: Colors.black,
                             fontWeight: FontWeight.bold,
